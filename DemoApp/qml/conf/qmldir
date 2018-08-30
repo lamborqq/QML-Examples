@@ -1,0 +1,5 @@
+#qmldir
+#module Conf
+
+# singleton define
+singleton Global 1.0 Global.qml
