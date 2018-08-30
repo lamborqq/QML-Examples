@@ -1,5 +1,7 @@
 <RCC>
     <qresource prefix="/">
         <file>images/lamborcai.png</file>
+        <file>font/fontawesome-webfont.ttf</file>
+        <file>logo.ico</file>
     </qresource>
 </RCC>

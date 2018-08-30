@@ -2,5 +2,6 @@
     <qresource prefix="/">
         <file>qml/main.qml</file>
         <file>qml/conf/Global.qml</file>
+        <file>qml/TitleBar/TitleBar.qml</file>
     </qresource>
 </RCC>

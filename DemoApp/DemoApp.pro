@@ -35,7 +35,7 @@ HEADERS += \
     cpp/network/network.h
 
 #Set Icon
-RC_ICONS = logo.ico
+# RC_ICONS = logo.ico
 
 DISTFILES += \
     logo.ico \
